@@ -1,0 +1,12 @@
+# Node
+node_modules/
+npm-debug.log
+.env
+
+# Angular build
+frontend/dist/
+frontend/.angular/
+frontend/.tmp/
+
+# macOS
+.DS_Store

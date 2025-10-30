@@ -1,0 +1,7 @@
+<h2>Latest Mission</h2>
+<div class="mission-card" *ngIf="mission">
+  <h3>{{mission.name}}</h3>
+  <p>Date: {{mission.date_utc | date}}</p>
+  <p>Details: {{mission.details}}</p>
+  <p>Rocket: {{mission.rocket}}</p>
+</div>

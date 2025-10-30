@@ -1,0 +1,18 @@
+body {
+  background-image: url("https://starwalk.space/gallery/images/what-is-space/1920x1080.jpg");
+  background-size: cover;         /* La imagen cubre toda la pantalla */
+  background-position: center;    /* Centrada */
+  background-repeat: no-repeat;   /* Evita que se repita */
+  background-attachment: fixed;   /* Fija la imagen al hacer scroll */
+  font-family: 'Orbitron', sans-serif;
+  color: #fff;                    /* Texto blanco para contraste */
+  min-height: 100vh;              /* Asegura que el body ocupe toda la pantalla */
+  margin: 0;                      /* Elimina margen por defecto */
+}
+
+
+.app-container {
+  padding: 2rem;
+  max-width: 1200px;
+  margin: auto;
+}

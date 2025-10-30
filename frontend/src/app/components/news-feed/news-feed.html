@@ -1,0 +1,9 @@
+<h2>News Feed</h2>
+<div class="news-container">
+  <div *ngFor="let item of news" class="news-card">
+    <img *ngIf="item.url" [src]="item.url" alt="nasa image"/>
+    <h3>{{item.title}}</h3>
+    <p>{{item.explanation}}</p>
+    <small>{{item.date}}</small>
+  </div>
+</div>
