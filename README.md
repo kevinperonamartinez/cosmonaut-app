@@ -5,12 +5,8 @@
 
 ---
 
-## ✨ Demo
 
-🔗 **Frontend (Angular + Vercel):** [https://cosmonews.vercel.app](https://cosmonews.vercel.app)  
-🌍 **Backend (Node + Express):** [https://cosmonews-backend.vercel.app](https://cosmonews-backend.vercel.app)
 
-*(Sustituye las URLs por las reales de tus deploys en Vercel)*
 
 ---
 
